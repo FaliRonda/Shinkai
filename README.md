@@ -1,2 +1,2 @@
-# MightnightWaterGlass
-FlatGame desarrollado en unas horas como prueba de nivel para el Master de Videojuegos de la UMA
+# Shinkai
+Código del juego desarrollado en la MálagaJam6 por LittleQuest
